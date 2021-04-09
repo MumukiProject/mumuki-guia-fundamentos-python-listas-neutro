@@ -11,8 +11,8 @@ Las listas son muy útiles para contener múltiples elementos. ¡Pero hay más! 
 
 Como vemos, `list.append` agrega un elemento a la lista, lo cual hace que su tamaño aumente. ¿Pero en qué parte de la lista lo agrega? ¿Al principio? ¿Al final? ¿En el medio? :thinking:
 
-> Averigualo vos: inspeccioná en la consola qué elementos contiene `libros`, agregale `"Fundación"` y volvé a inspeccionar `libros`.
+> Averígualo tú: inspecciona en la consola qué elementos contiene `libros`, agrégale `"Fundación"` y vuelve a inspeccionar `libros`.
 >
-> Además existe una función `list.remove`, que recibe por parámetro una lista y un elemento de ella. Investigá en la consola qué hace. :eyes:
+> Además existe una función `list.remove`, que recibe por parámetro una lista y un elemento de ella. Investiga en la consola qué hace. :eyes:
 >
->Cuando termines, escribí `listo()`.
+>Cuando termines, escribe `listo()`.
