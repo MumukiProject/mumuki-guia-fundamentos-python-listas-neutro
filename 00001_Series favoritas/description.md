@@ -5,9 +5,9 @@ series_favoritas_de_ana = ["Black Mirror", "Breaking Bad", "Recordando el Show d
 series_favoritas_de_hector = ["Game of Thrones", "Bojack Horseman", "Attack on Titan"]
 ```
 
-Como ves, para representar a un conjunto de strings, colocamos todos esos strings que nos interesan, entre corchetes (`[` y `]`) separados por comas. Fácil, ¿no?
+Como puedes ver, para representar a un conjunto de strings, colocamos todos esos strings que nos interesan, entre corchetes (`[` y `]`) separados por comas. Fácil, ¿no?
 
-> Probá en la consola las siguientes consultas:
+> Prueba en la consola las siguientes consultas:
 >
 ``` python
 ム series_favoritas_de_ana
@@ -15,5 +15,5 @@ Como ves, para representar a un conjunto de strings, colocamos todos esos string
 ム ["hola","mundo!"]
 ム ["hola","hola"]
 ```
-> Mirá cada uno de los resultados y contá cuántos strings hay en cada lista 
+> Mira cada uno de los resultados y cuenta cuántos strings hay en cada lista 
 
