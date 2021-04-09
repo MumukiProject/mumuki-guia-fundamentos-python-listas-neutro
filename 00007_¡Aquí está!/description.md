@@ -2,7 +2,7 @@ Bueno, parece que pasan cosas feas cuando queremos saber la posición de un elem
 
 Tenemos buenas noticias :newspaper:, ¡Python tiene una manera más fácil de hacer esto!
 
-> Probá en la consola lo siguiente:
+> Prueba en la consola lo siguiente:
 >
 ```python
 ム 7 in [1, 6, 7, 6]
