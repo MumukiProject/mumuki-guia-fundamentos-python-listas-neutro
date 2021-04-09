@@ -4,4 +4,4 @@ Y no sólo eso, sino que además pueden contener cualquier cantidad de elementos
 
 ¿Podremos entonces tener listas vacías, es decir, que no tengan elementos? :face_with_monocle:
 
-> Fijate en la consola escribiendo `una_lista_vacia`.
+> Fíjate en la consola escribiendo `una_lista_vacia`.
