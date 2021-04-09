@@ -1,8 +1,8 @@
 Por el momento ya sabemos qué cosas podemos representar con listas, y cómo hacerlo. Pero, ¿qué podemos hacer con ellas?
 
-Empecemos por lo fácil: ¿te acordás de `len`? También funciona con listas. 
+Empecemos por lo fácil: ¿te acuerdas de `len`? También funciona con listas. 
 
-> Realizá las siguientes consultas en la consola y fijate que hace:
+> Realiza las siguientes consultas en la consola y fíjate qué hace:
 >
 ``` python
 ム len([])
